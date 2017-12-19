@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Thomas Massinger"
-  avatar           : "images/TJ_profile.jpg"
+  avatar           : "images/TJ_profile.png"
   bio              : "Postdoctoral Scholar at Caltech working on gravitational wave detection"
   location         : "Pasadena, CA"
   employer         :
