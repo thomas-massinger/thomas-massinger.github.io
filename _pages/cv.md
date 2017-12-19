@@ -34,7 +34,10 @@ Programming experience
 
 Teaching experience
 ======
+* Guest Lecturer, Caltech
+  * Graduate classical mechanics
 * Instructor, Syracuse University
   * Graduate Problem Solving
-* Guest Lecturer
-  * Graduate classical mechanics
+* Physics Teaching Assistant, Syracuse University
+* Astronomy Lab Assistant, Syracuse University
+* Physics Teaching Assistant, Utica College 
