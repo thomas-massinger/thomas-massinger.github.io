@@ -17,7 +17,7 @@ Education
 * B.S. Physics, Utica College, 2011
 * B.A. Mathematics, Utica College, 2011
 
-Work experience
+Research experience
 ======
 * Postdoctoral Scholar, Caltech 
   * August 2016 - Present
@@ -32,20 +32,9 @@ Programming experience
 * Bash
 * MATLAB/Simulink
 
-Publications
+Teaching experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Instructor, Syracuse University
+  * Graduate Problem Solving
+* Guest Lecturer
+  * Graduate classical mechanics
