@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D Physics, Syracuse University, 2016
+  * Thesis: Detector Characterization for Advanced LIGO
+  * Advisor: Peter Saulson
+* B.S. Physics, Utica College, 2011
+* B.A. Mathematics, Utica College, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Scholar, Caltech 
+  * August 2016 - Present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant, Syracuse University
+  * August 2012 - August 2016
   
-Skills
+Programming experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python (numpy, scipy, pandas, Keras, Tensorflow)
+* C/C++
+* Bash
+* MATLAB/Simulink
 
 Publications
 ======
@@ -53,7 +49,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
