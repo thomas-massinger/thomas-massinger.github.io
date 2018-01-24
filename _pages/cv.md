@@ -25,12 +25,23 @@ Research experience
 * Research Assistant, Syracuse University
   * August 2012 - August 2016
   
-Programming experience
+Technical experience
 ======
-* Python (numpy, scipy, pandas, Keras, Tensorflow)
+* Python 
+    * numpy/scipy/pandas for data manipulation and visualization
+    * Keras/Tensorflow/Scikit for ML regression and classification
+    * Condor/Pegasus for parallel computing
 * C/C++
 * Bash
 * MATLAB/Simulink
+* Statistical modeling
+    * Bayesian inference and model selection
+    * Frequentist analysis
+    * Error estimation and propagation
+* Signal processing
+    * Time and frequency domain analysis
+    * Subtraction of coherent noise
+    * Wavelet analysis
 
 Teaching experience
 ======
