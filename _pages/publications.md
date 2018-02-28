@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -8,9 +8,6 @@ author_profile: true
 {% include base_path %}
 
 A full publication list is available upon request.
-
-Selected publications
-======
 
 * "Effects of Data Quality Vetoes on a Search for Compact Binary Coalescences in Advanced LIGO's First Observing Run", B. P. Abbott, et al., Class. Quant. Grav., 35, 065010 (2018)
 
