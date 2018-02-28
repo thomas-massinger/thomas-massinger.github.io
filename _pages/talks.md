@@ -4,9 +4,6 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-* Test
-* Test2
-
 * Transient Noise and Detector Characterization in Advanced LIGO  
   LIGO SURF seminar  
   California Institute of Technology  
