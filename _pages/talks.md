@@ -4,6 +4,18 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+*Digging Deeper into LIGO Data
+ Physics Department Colloquium
+ CSU Fullerton
+ Fullerton, CA
+ April 2018
+  
+* Detector Characterization in O2/O3
+  LIGO-Virgo Collaboration Meeting, Plenary Session
+  Sonoma State University
+  Rohnert Park, CA
+  March 2018
+
 * Transient Noise and Detector Characterization in Advanced LIGO  
   LIGO SURF seminar  
   California Institute of Technology  

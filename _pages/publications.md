@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 A full publication list is available upon request.
+* Enhancing confidence in the detection of gravitational waves from compact binaries using signal coherence'', Maximiliano Isi, Rory Smith, Salvatore Vitale, T. J. Massinger, Jonah Kanner, Avi Vajpeyi, Phys. Rev. D 98, 042007 (2018)
 
 * "Effects of Data Quality Vetoes on a Search for Compact Binary Coalescences in Advanced LIGO's First Observing Run", B. P. Abbott, et al., Class. Quant. Grav., 35, 065010 (2018)
 
