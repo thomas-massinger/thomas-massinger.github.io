@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Teaching experience
-======
 * Guest Lecturer, Caltech
   * Graduate classical mechanics
 * Instructor, Syracuse University

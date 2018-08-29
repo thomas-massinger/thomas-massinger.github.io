@@ -4,11 +4,11 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-*Digging Deeper into LIGO Data
- Physics Department Colloquium
- CSU Fullerton
- Fullerton, CA
- April 2018
+* Digging Deeper into LIGO Data
+  Physics Department Colloquium
+  CSU Fullerton
+  Fullerton, CA
+  April 2018
   
 * Detector Characterization in O2/O3
   LIGO-Virgo Collaboration Meeting, Plenary Session
