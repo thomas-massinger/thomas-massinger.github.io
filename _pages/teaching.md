@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 * Guest Lecturer, Graduate classical mechanics, Caltech
+
   I was a guest lecturer for two sections of a graduate level mechanics course at the 
   California Institute of Technology. I prepared lecture notes based on a set 
   of topics from the course's instructor and taught classes of roughly 25 
