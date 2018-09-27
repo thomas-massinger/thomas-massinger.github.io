@@ -24,3 +24,16 @@ searched for the gravitational wave patterns predicted by General Relativity. Ad
 transient gravitational wave signals so far - 5 from binary black hole mergers 
 and 1 from a binary neutron star merger. 
 
+My research focuses on two subfields within LIGO: detector characterization and searches for gravitational 
+waves from compact binary coalescences. The Advanced LIGO detectors are the most sensitive instruments ever 
+built, able to sense the differential motion of two mirrors to 1 part in 10^23 at its most sensitive 
+frequencies, which corresponds to distances of 10^-20 meters. Unfortunately, since the LIGO detectors 
+are ground-based, it is very easy for external noise to displace mirrors on this length scale. For 
+this reason, the data produced by the detectors is non-stationary, often containing transient noise 
+artifacts known as “glitches” as well as longer duration noise due to processes such as the heating 
+and cooling of the optics. The detector characterization group seeks to understand these noise 
+fluctuations and, if possible, mitigate them to improve LIGO’s sensitivity 
+to gravitational wave signals. This research is symbiotic with astrophysical search algorithms. 
+To fully understand how noise is impacting our sensitivity, it is necessary to understand how the 
+astrophysical searches work
+
