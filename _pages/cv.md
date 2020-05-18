@@ -19,8 +19,10 @@ Education
 
 Research experience
 ======
+* Postdoctoral Scholar, MIT
+  * August 2019 - Present
 * Postdoctoral Scholar, Caltech 
-  * August 2016 - Present
+  * August 2016 - August 2019 
 
 * Research Assistant, Syracuse University
   * August 2012 - August 2016
