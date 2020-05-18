@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-I'm a Postdoctoral Scholar at Caltech working on the detection of gravitational waves from compact binary 
+I'm a Postdoctoral Scholar at MIT working on the detection of gravitational waves from compact binary 
 systems and characterization of the Advanced LIGO detectors. 
 
 Gravitational waves are ripples in spacetime caused by the motion of massive objects. Of particular interest 
