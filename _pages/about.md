@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Postdoctoral Scholar at Caltech working on the detection of gravitational waves from compact binary 
-systems and characterization of the Advanced LIGO detectors. I earned my Ph.D from Syracuse University in 2016. 
+I'm a Postdoctoral Scholar at MIT working on the detection of gravitational waves from compact binary 
+systems and characterization of the Advanced LIGO detectors. I earned my Ph.D from Syracuse University in 2016 and was a Postdoctoral Scholar at Caltech from 2016-2019. 
 I'm interested in signal processing, data visualization, teaching, and data science.
